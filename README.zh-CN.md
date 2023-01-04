@@ -15,7 +15,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=fantiga) [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
 
 | ![Frankie Wu Jun's GitHub status](https://github-readme-stats.vercel.app/api?username=FantiGA&show_icons=true&include_all_commits=true&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FantiGA&layout=compact&hide_border=true) |
-|---|---|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 
 - [😄 你好啊 👋](#-你好啊-)
   - [🔭 我目前的工作](#-我目前的工作)
