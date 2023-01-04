@@ -6,8 +6,8 @@ This is Frankie Wu Jun.
 
 I'm a Chinese，currently living in Japan.
 
-👨🏻‍💻Full-stack developer / 📷Photographer / 🎨Designer
-🍵Matcha / 🍣Sushi / 🍜Ramen / Sashimi
+👨🏻‍💻Full-stack developer / 📷Photographer / 🎨Designer / 
+🍵Matcha / 🍣Sushi / 🍜Ramen / Sashimi / 
 ⛷Ski / 🚗Road Trip / Fan
 
 Over 20 years of full-stack development experience.
