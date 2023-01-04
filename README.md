@@ -14,6 +14,9 @@ Over 20 years of full-stack development experience.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=fantiga) [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
 
+| ![Frankie Wu Jun's GitHub status](https://github-readme-stats.vercel.app/api?username=FantiGA&show_icons=true&include_all_commits=true&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FantiGA&layout=compact&hide_border=true) |
+|---|---|
+
 - [😄 Hi there 👋](#-hi-there-)
   - [🔭 I’m currently working on](#-im-currently-working-on)
   - [🌱 I’m currently learning](#-im-currently-learning)
