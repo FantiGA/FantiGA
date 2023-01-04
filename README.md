@@ -42,7 +42,7 @@ Also, as a programmer, I'm really not used to Japanese keyboards.
 
 ## 👯 I’m looking to collaborate on
 
-I am the founder and one of the members of a development team @BlueSpaceTeam. The purpose of the group is to create business value while learning and exploring. The communication languages of the members are English, Mandarin and Cantonese. If you are interested in participating together, please contact us.
+I am the founder and one of the members of a development team [@BlueSpaceTeam](https://github.com/BlueSpaceTeam). The purpose of the group is to create business value while learning and exploring. The communication languages of the members are English, Mandarin and Cantonese. If you are interested in participating together, please contact us.
 
 ## 📱 I'm using
 
