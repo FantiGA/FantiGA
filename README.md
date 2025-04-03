@@ -4,7 +4,7 @@
 
 This is Frankie Wu Jun.
 
-I am Chinese and currently living in Japan.
+I am a Chinese person. I currently live in Japan. I am a Christian ✝️.
 
 👨🏻‍💻 Full-stack (Front-end focused) Engineer / 📷 Photographer / 🎨 Designer /
 🍵 Matcha / 🍣 Sushi / 🍜 Ramen / Sashimi /
